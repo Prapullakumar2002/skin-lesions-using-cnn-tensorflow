@@ -1,4 +1,4 @@
-st.markdown("""
+
 # 🧬 Skin Cancer Detection & Dermatologist Finder
 
 A deep learning-powered web application that detects **9 common skin diseases** from uploaded images and suggests nearby dermatologists based on your location.  
@@ -81,4 +81,4 @@ Please consult a certified dermatologist for diagnosis and treatment.
 
 📜 License
 This project is open-source under the MIT License.
-""", unsafe_allow_html=True)
+
